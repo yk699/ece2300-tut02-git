@@ -2,3 +2,4 @@ circle
 rectangle
 square
 triangle
+rhombus
